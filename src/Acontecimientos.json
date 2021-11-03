@@ -1,0 +1,14 @@
+[
+    { "comentario": "Orden Creada", "fecha": "04-05-2021 13:17:26", "positionInit": [19.386222605144557, -99.15703021069578] },
+    { "comentario": "Buscando Mensajero Cercano", "fecha": "04-05-2021 13:17:28" },
+    { "comentario": "Punto de Origen A: En proceso", "fecha": "04-05-2021 13:29:00", "coordenadas": {
+        "position": [19.386222605144557, -99.15703021069578], "label": "Punto de Origen A"
+    } },
+    { "comentario": "Punto de Origen A: Finalizado", "fecha": "04-05-2021 13:32:17" },
+    { "comentario": "En Ruta de Entrega", "fecha": "04-05-2021 13:32:17" },
+    { "comentario": "Punto de Origen B: En proceso", "fecha": "04-05-2021 13:53:18", "coordenadas": {
+        "position": [19.434131107320475, -99.1536538109751], "label": "Punto de Origen B"
+    } },
+    { "comentario": "Punto de Origen B: Finalizado", "fecha": "04-05-2021 14:01:29" },
+    { "comentario": "Orden Finalizada", "fecha": "04-05-2021 14:01:29" }
+]
